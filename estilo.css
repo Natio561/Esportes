@@ -1,0 +1,50 @@
+﻿
+body{
+	font-family: arial;
+	color:black;
+	background-color:white;
+		
+}
+p{
+	text-align: justify;
+	font-size: 12px;
+	margin-left: 5px;
+	margin-top: 10px;
+	
+}
+h1{
+	text-align: right;
+	text-transform: uppercase;
+	font-size:30px;
+}
+
+.cabecalho
+{
+	text-align: center;
+}
+
+.rodape
+{
+	text-align: right;
+	font-style: italic;
+	color:gray;
+}
+.azul
+{
+	color:blue
+}
+.vermelho
+{
+	color:yellow;
+	font-style:italic;
+}
+.cbf
+{
+	color:yellow;
+}
+.cinza{
+	background-color:gray;
+}
+.azuls{
+	background-color:lightskyblue;
+}
